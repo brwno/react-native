@@ -1,0 +1,6 @@
+module Pods_mines {
+  umbrella header "Pods-mines-umbrella.h"
+
+  export *
+  module * { export * }
+}
