@@ -11,6 +11,11 @@ Diretório específico para o curso de React-Native
 
 # App "Tasks" Offline
 
+![Task Offline](https://github.com/brwno/react-native/blob/master/images/task%20offline2.png)
+![Task Offline](https://github.com/brwno/react-native/blob/master/images/task%20offline%205.png)
+![Task Offline](https://github.com/brwno/react-native/blob/master/images/task%20offline%204.png)
+
+
 # App "Tasks" Online
 
 # Clone Instagram
