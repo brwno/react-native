@@ -1,6 +1,5 @@
-const bcrypt = require('bcrypt-nodejs')  //criptografar senha
+const bcrypt = require('bcrypt-nodejs')
 
-//Calculo do Hash
 module.exports = app => {
     const obterHash = (password, callback) => {
         bcrypt.genSalt(10, (err, salt) => {
